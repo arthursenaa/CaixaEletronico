@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\CaixaEletronicoCompleto\obj\Debug\netcoreapp2.1\CaixaEletronicoCompleto.csprojAssemblyReference.cache
+D:\senai\codigos\C#\CaixaEletronicoCompleto\obj\Debug\netcoreapp2.1\CaixaEletronicoCompleto.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\CaixaEletronicoCompleto\obj\Debug\netcoreapp2.1\CaixaEletronicoCompleto.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\CaixaEletronicoCompleto\obj\Debug\netcoreapp2.1\CaixaEletronicoCompleto.AssemblyInfo.cs
+D:\senai\codigos\C#\CaixaEletronicoCompleto\bin\Debug\netcoreapp2.1\CaixaEletronicoCompleto.deps.json
+D:\senai\codigos\C#\CaixaEletronicoCompleto\bin\Debug\netcoreapp2.1\CaixaEletronicoCompleto.runtimeconfig.json
+D:\senai\codigos\C#\CaixaEletronicoCompleto\bin\Debug\netcoreapp2.1\CaixaEletronicoCompleto.runtimeconfig.dev.json
+D:\senai\codigos\C#\CaixaEletronicoCompleto\bin\Debug\netcoreapp2.1\CaixaEletronicoCompleto.dll
+D:\senai\codigos\C#\CaixaEletronicoCompleto\bin\Debug\netcoreapp2.1\CaixaEletronicoCompleto.pdb
+D:\senai\codigos\C#\CaixaEletronicoCompleto\obj\Debug\netcoreapp2.1\CaixaEletronicoCompleto.dll
+D:\senai\codigos\C#\CaixaEletronicoCompleto\obj\Debug\netcoreapp2.1\CaixaEletronicoCompleto.pdb
